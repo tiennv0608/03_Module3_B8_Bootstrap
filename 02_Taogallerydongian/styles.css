@@ -1,3 +1,7 @@
+h2, h4 {
+    font-weight: bold;
+}
+
 div.gallery {
     border: 1px solid #ccc;
 }
